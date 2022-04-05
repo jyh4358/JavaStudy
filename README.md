@@ -12,7 +12,8 @@
 - JVM 구성 요소
 - JDK와 JRE의 차이
 
-정리 블로그 : [JVM에 대하여](https://jddng.tistory.com/56)
+정리 블로그<br/>
+[JVM에 대하여](https://jddng.tistory.com/56)
 
 ## 2주차. 자바 데이터 타입, 변수 그리고 배열
 
@@ -25,7 +26,8 @@
 - 1차 및 2차 배열 선언하기
 - 타입 추론, var
 
-정리 블로그 : [자바 데이터 타입, 변수 그리고 배열](https://jddng.tistory.com/63)
+정리 블로그<br/>
+[자바 데이터 타입, 변수 그리고 배열](https://jddng.tistory.com/63)
 
 ## 3주차. 연산자
 
@@ -40,7 +42,8 @@
 - 연산자 우선 순위
 - (optional) Java 13. switch 연산자
 
-정리 블로그 : [연산자](https://jddng.tistory.com/84)
+정리 블로그<br/>
+[연산자](https://jddng.tistory.com/84)
 
 ## 4주차. 제어문
 
@@ -48,8 +51,9 @@
  - 반복문
  - LinkedList, Stack, Queue 구현
 
-정리 블로그 : [제어문](https://jddng.tistory.com/120)<br/>
-             [LinkedList, Stack, Queue 구현하기](https://jddng.tistory.com/123)
+정리 블로그<br/>
+[제어문](https://jddng.tistory.com/120)<br/>
+[LinkedList, Stack, Queue 구현하기](https://jddng.tistory.com/123)<br/>
 
 ## 5주차. 클래스
 
@@ -59,9 +63,10 @@
  - 생성자 정의하는 방법
  - this 키워드 이해
 
-정리 블로그 : [클래스(Class) 와 객체 생성](https://jddng.tistory.com/137)<br/>
-             [메서드 오버로딩과 오버라이딩](https://jddng.tistory.com/138)<br/>
-             [생성자와 this키워드](https://jddng.tistory.com/139)
+정리 블로그<br/>
+[클래스(Class) 와 객체 생성](https://jddng.tistory.com/137)<br/>
+[메서드 오버로딩과 오버라이딩](https://jddng.tistory.com/138)<br/>
+[생성자와 this키워드](https://jddng.tistory.com/139)<br/>
              
 ## 6주차.상속
 
@@ -73,7 +78,8 @@
  - final 키워드
  - Object 클래스
 
-정리 블로그 : [상속과 super 키워드](https://jddng.tistory.com/153)<br/>
-             [다이나믹 메서드 디스패치](https://jddng.tistory.com/154)<br/>
-             [추상 클래스](https://jddng.tistory.com/155)<br/>
-             [Object 클래스](https://jddng.tistory.com/156)
+정리 블로그<br/>
+[상속과 super 키워드](https://jddng.tistory.com/153)<br/>
+[다이나믹 메서드 디스패치](https://jddng.tistory.com/154)<br/>
+[추상 클래스](https://jddng.tistory.com/155)<br/>
+[Object 클래스](https://jddng.tistory.com/156)<br/>
