@@ -48,8 +48,7 @@
  - 반복문
  - LinkedList, Stack, Queue 구현
 
-정리 블로그 : [제어문](https://jddng.tistory.com/120)
-
+정리 블로그 : [제어문](https://jddng.tistory.com/120)<br/>
              [LinkedList, Stack, Queue 구현하기](https://jddng.tistory.com/123)
 
 ## 5주차. 클래스
@@ -60,8 +59,8 @@
  - 생성자 정의하는 방법
  - this 키워드 이해
 
-정리 블로그 : [클래스(Class) 와 객체 생성](https://jddng.tistory.com/137)
-             [메서드 오버로딩과 오버라이딩](https://jddng.tistory.com/138)
+정리 블로그 : [클래스(Class) 와 객체 생성](https://jddng.tistory.com/137)<br/>
+             [메서드 오버로딩과 오버라이딩](https://jddng.tistory.com/138)<br/>
              [생성자와 this키워드](https://jddng.tistory.com/139)
              
 ## 6주차.상속
@@ -74,7 +73,7 @@
  - final 키워드
  - Object 클래스
 
-정리 블로그 : [상속과 super 키워드](https://jddng.tistory.com/153)
-             [다이나믹 메서드 디스패치](https://jddng.tistory.com/154)
-             [추상 클래스](https://jddng.tistory.com/155)
+정리 블로그 : [상속과 super 키워드](https://jddng.tistory.com/153)<br/>
+             [다이나믹 메서드 디스패치](https://jddng.tistory.com/154)<br/>
+             [추상 클래스](https://jddng.tistory.com/155)<br/>
              [Object 클래스](https://jddng.tistory.com/156)
