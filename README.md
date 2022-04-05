@@ -49,6 +49,7 @@
  - LinkedList, Stack, Queue 구현
 
 정리 블로그 : [제어문](https://jddng.tistory.com/120)
+
              [LinkedList, Stack, Queue 구현하기](https://jddng.tistory.com/123)
 
 ## 5주차. 클래스
