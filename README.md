@@ -83,3 +83,37 @@
 [다이나믹 메서드 디스패치](https://jddng.tistory.com/154)<br/>
 [추상 클래스](https://jddng.tistory.com/155)<br/>
 [Object 클래스](https://jddng.tistory.com/156)<br/>
+
+## 7주차. 패키지
+
+ - package 키워드
+ - import 키워드
+ - CLASSPATH 환경변수
+ - -classpath 옵션
+
+정리 블로그<br/>
+[package 키워드, import 키워드와 접근제어자(Access Modifier](https://jddng.tistory.com/187)<br/>
+[클래스패스(ClassPath)](https://jddng.tistory.com/188)<br/>
+
+## 8주차. 인터페이스
+
+ - 인터페이스 정의
+ - 인터페이스 구현
+ - 인터페이스 레퍼런스를 통해 구현체를 사용하는 방법
+ - 인터페이스 상속
+ - 인터페이스의 기본 메서드(Default Method), 자바8
+ - 인터페이스의 static 메서드, 자바8
+ - 인터페이스의 private 메서드, 자바9
+
+정리 블로그<br/>
+[인터페이스](https://jddng.tistory.com/261)<br/>
+
+## 9주차. 예외처리
+
+ - 자바에서 예외 처리 방법
+ - 자바가 제공하는 예외 계층 구조
+ - Exception과 Error의 차이는?
+ - RuntomeException과 RE가 아닌 것의 차이는?
+ - 커스텀한 예외 만드는 방법
+
+[예외 처리](https://jddng.tistory.com/277)<br/>
