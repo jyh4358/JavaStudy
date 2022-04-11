@@ -117,3 +117,25 @@
  - 커스텀한 예외 만드는 방법
 
 [예외 처리](https://jddng.tistory.com/277)<br/>
+
+## 10주차. 멀티쓰레드 프로그래밍
+
+ - 개념 정리
+ - Thread 생성 방법과 실행
+ - Thread 상태와 메서드
+ - Thread 우선순위
+ - Main Thread
+ - 동기화(Synchronization)
+ - 교착상태(DeadLock)
+
+[Thread](https://jddng.tistory.com/302)<br>
+
+## 11주차. Enum
+
+ - enum이 생긴 이유
+ - enum 정의
+ - Enum 클래스에 제공하는 메서드
+ - EnumSet
+
+[Enum](https://jddng.tistory.com/305)
+
