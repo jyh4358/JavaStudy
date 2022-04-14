@@ -137,5 +137,18 @@
  - Enum 클래스에 제공하는 메서드
  - EnumSet
 
-[Enum](https://jddng.tistory.com/305)
+[Enum](https://jddng.tistory.com/305)<br>
+
+## 12주차. 애노테이션(annotation)
+
+ - 애노테이션 정의하는 방법
+ - @retention
+ - @target
+ - @documented
+ - 애노테이션 프로세서
+
+[애노테이션(annotation)](https://jddng.tistory.com/307)<br>
+
+
+
 
