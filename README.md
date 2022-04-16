@@ -150,5 +150,14 @@
 [애노테이션(annotation)](https://jddng.tistory.com/307)<br>
 
 
+## 13주차. I/O
+
+ - 스트림 (Stream) / 버퍼 (Buffer) / 채널 (Channel) 기반의 I/O
+ - InputStream과 OutputStream
+ - Byte와 Character 스트림
+ - 표준 스트림 (System.in, System.out, System.err)
+ - 파일 읽고 쓰기
+
+[input과 output(I/O)](https://jddng.tistory.com/346)
 
 
