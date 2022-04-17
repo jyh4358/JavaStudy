@@ -161,3 +161,12 @@
 [input과 output(I/O)](https://jddng.tistory.com/346)
 
 
+## 14주차. 제네릭(Generics)
+
+ - 제네릭 사용법
+ - 제네릭 주요 개념 (바운디드 타입, 와일드 카드)
+ - 제네릭 메소드 만들기
+ - Erasure
+
+[제네릭(Generics)](https://jddng.tistory.com/347)
+
