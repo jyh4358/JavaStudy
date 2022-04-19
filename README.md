@@ -158,7 +158,7 @@
  - 표준 스트림 (System.in, System.out, System.err)
  - 파일 읽고 쓰기
 
-[input과 output(I/O)](https://jddng.tistory.com/346)
+[input과 output(I/O)](https://jddng.tistory.com/346)<br>
 
 
 ## 14주차. 제네릭(Generics)
@@ -168,5 +168,14 @@
  - 제네릭 메소드 만들기
  - Erasure
 
-[제네릭(Generics)](https://jddng.tistory.com/347)
+[제네릭(Generics)](https://jddng.tistory.com/347)<br>
+
+## 15주차. 람다식
+
+ - 람다식 사용법
+ - 함수형 인터페이스
+ - Variable Capture
+ - 메소드, 생성자 레퍼런스
+
+[람다식](https://jddng.tistory.com/349)
 
